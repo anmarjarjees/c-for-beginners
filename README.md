@@ -1,4 +1,4 @@
-# c-for-beginners
+# C Language for Beginners
 Learning C Programming Language For Beginners
 
 For this tutorial I used Visual Studio Code by adding/installing the following official extensions from Microsoft and installing the C++ compiler:
